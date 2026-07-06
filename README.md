@@ -6,6 +6,10 @@
 Camera → Object Detection → Localization → Path Planning → Controller → Gazebo
 ```
 
+![trust me bro i'm an engineer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBwaDRnODR1eGQyMTkydXo5bGR4cnJsM29hano4cjF3Y3c0Z2FncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BeGcXm9dtRMhDAStl/giphy.gif)
+
+*us building this autonomous stack, probably*
+
 ---
 
 ## What is this?
